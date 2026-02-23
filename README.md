@@ -27,3 +27,15 @@ The matrix shows job satisfaction across job roles. This can give the company in
 
 ### What Drives Attrition?
 Using Power BI's Key Influencers visual, the analysis identifies that when an employee's job involvement is 1 (on a scale of 1 to 4), then the likelihood of attrition increases by 2.24x. This tells us that when employees feel as though they are not involved at work or their work is being overlooked, they are more than 2 times likely to leave the company. Strategies should be put in place to combat low-job involvement, and develop a cohesive work environment.
+
+### Skills Demonstrated
+1. Data cleaning and preprocessing
+2. Data modeling
+3. KPI development
+4. DAX measures
+5. Business intelligence storytelling
+6. Providing insights for employee retention
+7. Dashboard design principles
+
+## References
+- https://www.youtube.com/@datatutorials1
