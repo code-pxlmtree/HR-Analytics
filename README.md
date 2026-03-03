@@ -8,7 +8,7 @@ In this project I demonstrate end-to-end analytics skills:
 - Business insight generation for decision making
 
 ## Dataset:
-The dataset was obtained on kaggle. It containes employee information from a fictional company. For those interested in viewing or downloading the dataset, it is available in my GitHub repository.
+The dataset was obtained through a link online. It containes employee information from a fictional company. For those interested in viewing or downloading the dataset, it is available in my GitHub repository as "HR DATA.xlsx".
 
 ## Dashboard 
 <img width="1110" height="635" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/414a55ce-e0bb-4a38-a98a-f00dd483161f" />
